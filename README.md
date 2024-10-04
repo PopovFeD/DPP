@@ -2,6 +2,6 @@
 
 он же ПЦП, он де DPP (digital production practicum)
 
-![[./img/scheme.png]]
+![Мишина схема](./img/scheme.png)
 
 Репозиторий Альянса
